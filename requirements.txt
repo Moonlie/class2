@@ -1,6 +1,5 @@
 datetime
 numpy
-lxml
 pandas
 astropy
 tushare
