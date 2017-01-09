@@ -2,6 +2,7 @@ datetime
 numpy
 lxml
 pandas
+astropy
 tushare
 smtplib
 email
