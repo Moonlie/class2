@@ -1,5 +1,5 @@
 datetime
-python-lxml
+lxml
 numpy
 pandas
 astropy
