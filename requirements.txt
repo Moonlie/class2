@@ -1,5 +1,5 @@
 datetime
-apt-get install libxml2-dev libxslt-dev python-dev
+xmlsoft.org/sources/python/libxml2-python-2.6.21.tar.gz
 lxml==3.2.5
 numpy
 pandas
