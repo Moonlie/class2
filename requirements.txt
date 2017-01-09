@@ -1,0 +1,8 @@
+datetime
+numpy
+lxml
+pandas
+tushare
+smtplib
+email
+matplotlib
