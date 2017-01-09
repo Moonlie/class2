@@ -1,4 +1,3 @@
---upgrade pip
 datetime
 python-lxml
 numpy
