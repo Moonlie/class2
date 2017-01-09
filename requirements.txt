@@ -1,5 +1,5 @@
 datetime
-xmlsoft.org/sources/python/libxml2-python-2.6.21.tar.gz
+xmlsoft.org/sources/libxslt-1.1.29.tar.gz
 lxml==3.2.5
 numpy
 pandas
