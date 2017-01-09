@@ -413,8 +413,8 @@ def sendmail(codes,ktype='D',receiver='13559358220@126.com'):
 
 # 第三方 SMTP 服务
     mail_host="smtp.126.com"  #设置服务器
-    mail_user="xmq1989@126.com"    #用户名
-    mail_pass="******"   #口令 
+    mail_user="stock_auto@163.com"    #用户名
+    mail_pass="xsw2zaq1"   #口令 
 
     sender = '13559358220@126.com'
     receivers = receiver  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
@@ -500,8 +500,8 @@ def candlestick(code,ktype='D'):
     fig.savefig(code+'-'+ktype+'F'+'.png',dpi=100)
 
 codes= filt('30')
-sendmail(codes,'30','13559358220@126.com')
+sendmail(codes,'30','xmq1989@126.com')
 codes= filt('60')
-sendmail(codes,'60','13559358220@126.com')
+sendmail(codes,'60','xmq1989@126.com')
 codes= filt('D')
-sendmail(codes,'D','13559358220@126.com')
+sendmail(codes,'D','xmq1989@126.com')
