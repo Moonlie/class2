@@ -1,5 +1,10 @@
 datetime
-lxml==3.2.5
+libxml2
+libxml2-devel
+libxlst
+libxlst-devel
+python-libxml2
+python-libxslt
 lxml==3.2.5
 numpy
 pandas
