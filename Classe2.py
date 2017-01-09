@@ -412,7 +412,7 @@ def sendmail(codes,ktype='D',receiver='13559358220@126.com'):
     from email.header import Header
 
 # 第三方 SMTP 服务
-    mail_host="smtp.126.com"  #设置服务器
+    mail_host="smtp.163.com"  #设置服务器
     mail_user="stock_auto@163.com"    #用户名
     mail_pass="xsw2zaq1"   #口令 
 
