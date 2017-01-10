@@ -1,4 +1,4 @@
-pip install --upgrade pip
+pip>=9.0.1
 datetime
 wheel
 http://xmlsoft.org/sources/libxml2-2.9.3.tar.gz
