@@ -1,6 +1,4 @@
 datetime
-yum install libxslt-devel libxml2-devel
-lxml==3.2.5
 numpy
 pandas
 astropy
