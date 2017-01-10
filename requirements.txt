@@ -2,6 +2,7 @@ datetime
 pip>=9.0.1
 wheel
 http://xmlsoft.org/sources/python/libxml2-python-2.6.21.tar.gz
+http://xmlsoft.org/sources/python/libxslt-python-1.1.29-1.fc23.x86_64.rpm
 lxml<2
 numpy
 pandas
