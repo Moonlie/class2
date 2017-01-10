@@ -3,7 +3,6 @@ pip==9.0.1
 wheel
 python-dev
 http://xmlsoft.org/sources/python/libxml2-python-2.6.21.tar.gz
-http://xmlsoft.org/sources/libxslt-1.1.29.tar.gz
 lxml==3.7.2
 numpy
 pandas
